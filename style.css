@@ -1,0 +1,28 @@
+.box1
+{
+    width:600px;
+    height:400px;
+    border:2px solid black;
+
+}
+.a
+{
+    width: 600px;
+    height:133px;
+    background-color: #cf0921;
+    
+}
+.b
+{
+    width: 600px;
+    height:133px;
+    background-color: white;
+    
+}
+.c
+{
+    width: 600px;
+    height:134px;
+    background-color: black;
+    
+}
